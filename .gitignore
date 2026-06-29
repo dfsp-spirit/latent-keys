@@ -218,8 +218,10 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Psychopy
-html/
+psychopy/html/
 .psychopy/
+psychopy/data/
+psychopy/latent-keys.py
 *_lastrun.py
 *.log
 *.psydat
